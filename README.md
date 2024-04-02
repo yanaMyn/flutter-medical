@@ -1,5 +1,7 @@
 # medical_app
 
+![image](https://github.com/yanaMyn/flutter-medical/assets/17327723/72cdba71-823c-46b0-8686-208b1b5d268e)
+
 A new Flutter project.
 
 ## Getting Started
